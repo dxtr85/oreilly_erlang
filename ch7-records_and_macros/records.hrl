@@ -1,0 +1,3 @@
+-record(person, {name,age=0,phone, address}).
+-record(data, {key, value}).
+-record(bnode, {value=0, left, right}).

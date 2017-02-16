@@ -1,0 +1,3 @@
+-record(circle,{radius=1}).
+-record(rectangle,{width=1,height=1}).
+-record(triangle,{side_a=1,side_b=1,side_c=1}).
